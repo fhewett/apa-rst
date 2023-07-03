@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">“Es ist wirklich unfassbar zur Zeit muss ich sagen,</segment>
+		<segment id="2" parent="31" relname="span">es war ein Wahnsinns-Rennen”,</segment>
+		<segment id="3" parent="31" relname="attribution">freute sich Mayer im Auslauf.</segment>
+		<segment id="4" parent="19" relname="conjunction">“Ich habe sehr viel riskiert</segment>
+		<segment id="5" parent="19" relname="conjunction">und war sehr locker drauf.</segment>
+		<segment id="6" parent="26" relname="span">Ich habe gewusst, dass es sich ausgehen kann, aber nur mit einer perfekten Fahrt.</segment>
+		<segment id="7" parent="20" relname="span">Zum Schluss habe ich noch mehr riskiert,</segment>
+		<segment id="8" parent="7" relname="restatement">bin ‘all-in’ gegangen.</segment>
+		<segment id="9" parent="20" relname="evaluation-S">Das ist mir voll aufgegangen.”</segment>
+		<segment id="10" parent="25" relname="span">Er sei “ziemlich gerade” auf die Tore zugefahren.</segment>
+		<segment id="11" parent="10" relname="interpretation">“Das war am Ende das große Geheimnis, aber sehr viel Risiko.”</segment>
+		<segment id="12" parent="24" relname="span">Der Dienstag war auch ein Jubeltag für Österreichs Snowboarder im olympischen Parallel-Riesentorlauf:</segment>
+		<segment id="13" parent="23" relname="span">Benjamin Karl holte im Secret Garden in Zhangjiakou sensationell mit 36 Jahren Gold nach einem Finalsieg über den Slowenen Tim Mastnak.</segment>
+		<segment id="14" parent="22" relname="span">Bereits zuvor hatte sich Daniela Ulbing erst im Großen Finale der tschechischen Favoritin Ester Ledecka beugen müssen.</segment>
+		<segment id="15" parent="14" relname="restatement">Die 23-jährige Kärntnerin holte also Silber.</segment>
+		<segment id="16" parent="29" relname="span">Österreich hält damit nach Super-G-Gold durch Matthias Mayer bereits bei sieben Medaillen.</segment>
+		<segment id="17" parent="28" relname="span">Karl komplettierte damit seinen olympischen Medaillensatz nach Silber 2010 und Bronze 2014.</segment>
+		<segment id="18" parent="17" relname="e-elaboration">Der Niederösterreicher ist unter anderem auch fünffacher Weltmeister.</segment>
+		<group id="19" type="multinuc" parent="41" relname="span"/>
+		<group id="20" type="span" parent="21" relname="span"/>
+		<group id="21" type="span" parent="6" relname="e-elaboration"/>
+		<group id="22" type="span" parent="30" relname="sequence"/>
+		<group id="23" type="span" parent="30" relname="sequence"/>
+		<group id="24" type="span" parent="35" relname="span"/>
+		<group id="25" type="span" parent="26" relname="e-elaboration"/>
+		<group id="26" type="span" parent="40" relname="span"/>
+		<group id="28" type="span" parent="16" relname="elaboration"/>
+		<group id="29" type="span" parent="24" relname="result"/>
+		<group id="30" type="multinuc" parent="12" relname="evidence"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="38" relname="list"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="38" relname="list"/>
+		<group id="38" type="multinuc" />
+		<group id="39" type="span" parent="32" relname="cause"/>
+		<group id="40" type="span" parent="41" relname="elaboration"/>
+		<group id="41" type="span" parent="39" relname="span"/>
+	</body>
+</rst>

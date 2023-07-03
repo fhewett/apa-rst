@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Auch beim Friseur gilt die 2G-Regel bald nicht mehr</segment>
+		<segment id="2" parent="21" relname="span">Die Corona-Regeln in Österreich werden ab Samstag weniger streng.</segment>
+		<segment id="3" parent="2" relname="result">Dann gilt die 2G-Regel in Museen und in Geschäften nicht mehr.</segment>
+		<segment id="4" parent="5" relname="result">Das heißt, man muss nicht mehr genesen oder geimpft sein.</segment>
+		<segment id="5" parent="20" relname="span">Es genügt auch ein negativer Corona-Test.</segment>
+		<segment id="6" parent="23" relname="contrast">Ab Samstag gilt 2G-Regel auch beim Friseur nicht mehr.</segment>
+		<segment id="7" parent="23" relname="contrast">Man muss aber eine FFP2-Maske tragen.</segment>
+		<segment id="8" parent="24" relname="attribution">Das hat die österreichische Regierung am Dienstag angekündigt.</segment>
+		<segment id="9" parent="14" relname="span">Bei Veranstaltungen können ab Samstag wieder mehr Menschen dabei sein.</segment>
+		<segment id="10" parent="9" relname="elaboration">Es gibt keine Obergrenze mehr.</segment>
+		<segment id="11" parent="15" relname="list">Bei Veranstaltungen gilt aber immer noch die 2G-Regel.</segment>
+		<segment id="12" parent="15" relname="list">Außerdem muss man bei Veranstaltungen eine FFP2-Maske tragen.</segment>
+		<segment id="13" parent="16" relname="elaboration">Das gilt drinnen und draußen.</segment>
+		<group id="14" type="span" parent="17" relname="span"/>
+		<group id="15" type="multinuc" parent="16" relname="span"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="17" type="span" parent="19" relname="list"/>
+		<group id="18" type="span" parent="14" relname="concession"/>
+		<group id="19" type="multinuc" />
+		<group id="20" type="span" parent="21" relname="e-elaboration"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="19" relname="list"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="25" type="span" parent="19" relname="list"/>
+	</body>
+</rst>

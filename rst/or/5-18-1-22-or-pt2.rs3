@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="17" relname="list">Alaba stimmte als ÖFB-Teamkapitän für Lewandowski vor Karim Benzema und Jorginho.</segment>
+		<segment id="2" parent="17" relname="list">Nationaltrainer Franco Foda hatte Lewandowski vor Salah und Jorginho auf dem Zettel.</segment>
+		<segment id="3" parent="17" relname="list">Der Pole war auch bei Deutschlands Teamchef Hansi Flick und DFB-Kapitän Manuel Neuer die Nummer eins.</segment>
+		<segment id="4" parent="17" relname="list">Lewandowski selbst votierte für Jorginho vor Messi und Ronaldo.</segment>
+		<segment id="5" parent="17" relname="list">Messi gab seinen PSG-Teamkollegen Neymar und Mbappé sowie Benzema den Vorzug.</segment>
+		<segment id="6" parent="17" relname="list">Ronaldo setzte Lewandowski auf die Einser-Position.</segment>
+		<segment id="7" parent="24" relname="span">In der Weltelf der FIFA stand Lewandowski ebenso wie Messi und auch Ronaldo,</segment>
+		<segment id="8" parent="7" relname="e-elaboration">der am Ende der Gala als bester Nationalteam-Torschütze geehrt wurde.</segment>
+		<segment id="9" parent="18" relname="span">Alaba schaffte es nach mehrmaligen Nominierungen in den vergangenen Jahren erstmals in die Auswahl,</segment>
+		<segment id="10" parent="9" relname="e-elaboration">die nach Angaben der Spielergewerkschaft Fifpro von knapp 19.000 Profis gewählt wurde.</segment>
+		<segment id="11" parent="22" relname="span">Emotional wurde es während der Gala bei der Vergabe des Fairplay-Preises.</segment>
+		<segment id="12" parent="20" relname="span">Ausgezeichnet wurden die Nationalspieler sowie das medizinische Personal der dänischen Auswahl nach dem Drama um Starspieler Christian Eriksen.</segment>
+		<segment id="13" parent="19" relname="sequence">Der 29-Jährige war am 12. Juni 2021 während des EM-Gruppenspiels zwischen Dänemark und Finnland in Kopenhagen auf dem Rasen zusammengebrochen</segment>
+		<segment id="14" parent="19" relname="sequence">und musste wiederbelebt werden.</segment>
+		<segment id="15" parent="19" relname="sequence">Die sichtlich schockierten dänischen Nationalspieler bildeten währenddessen einen schützenden Kreis um ihren Mitspieler.</segment>
+		<segment id="16" parent="23" relname="list">Der Fan-Award der FIFA ging an die dänischen und finnischen Fans.</segment>
+		<group id="17" type="multinuc" parent="23" relname="list"/>
+		<group id="18" type="span" parent="23" relname="list"/>
+		<group id="19" type="multinuc" parent="12" relname="background"/>
+		<group id="20" type="span" parent="11" relname="cause"/>
+		<group id="22" type="span" parent="23" relname="list"/>
+		<group id="23" type="multinuc" />
+		<group id="24" type="span" parent="23" relname="list"/>
+	</body>
+</rst>

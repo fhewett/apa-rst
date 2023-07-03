@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Marko Arnautovic ist Fußballer des Jahres</segment>
+		<segment id="2" parent="12" relname="span">Marko Arnautovic ist zum Fußballer des Jahres in Österreich gewählt worden.</segment>
+		<segment id="3" parent="2" relname="cause">Die Trainer der 12 Klubs in der österreichischen Bundesliga wählten den Wiener Fußballer.</segment>
+		<segment id="4" parent="11" relname="span">Arnautovic gewann die Auszeichnung zum 1. Mal.</segment>
+		<segment id="5" parent="10" relname="span">Er gewann die Wahl vor den Fußballern David Alaba und Xaver Schlager.</segment>
+		<segment id="6" parent="9" relname="sequence">Letztes Jahr gewann Marcel Sabitzer die Wahl.</segment>
+		<segment id="7" parent="9" relname="sequence">Von 2011 bis 2016 gewann David Alaba.</segment>
+		<segment id="8" parent="13" relname="e-elaboration">Arnautovic spielt in der österreichischen Fußball-Nationalmannschaft und in der englischen Fußball-Liga beim Klub West Ham.</segment>
+		<group id="9" type="multinuc" parent="5" relname="circumstance"/>
+		<group id="10" type="span" parent="4" relname="elaboration"/>
+		<group id="11" type="span" parent="12" relname="elaboration"/>
+		<group id="12" type="span" parent="13" relname="span"/>
+		<group id="13" type="span" parent="14" relname="span"/>
+		<group id="14" type="span" />
+	</body>
+</rst>

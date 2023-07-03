@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Spanien und Katalonien wollen mit dem Streiten aufhören</segment>
+		<segment id="2" parent="44" relname="background">In Spanien gibt es seit einiger Zeit politischen Streit wegen Katalonien.</segment>
+		<segment id="3" parent="32" relname="list">In der spanischen Region Katalonien gab im Jahr 2017 eine Abstimmung.</segment>
+		<segment id="4" parent="32" relname="list">Dabei stimmten viele Menschen dafür, dass Katalonien unabhängig von Spanien wird.</segment>
+		<segment id="5" parent="6" relname="attribution">Die damalige Regierung von Spanien sagte:</segment>
+		<segment id="6" parent="15" relname="span">Die Abstimmung ist gegen das Gesetz.</segment>
+		<segment id="7" parent="16" relname="list">Die spanische Regierung entließ auch viele Politiker von Katalonien.</segment>
+		<segment id="8" parent="44" relname="span">Dadurch wurde der Streit noch stärker.</segment>
+		<segment id="9" parent="10" relname="preparation">Heuer bekam Spanien eine neue Regierung.</segment>
+		<segment id="10" parent="41" relname="span">Der neue Premier-Minister von Spanien heißt Pedro Sanchez (sprich: Santsches).</segment>
+		<segment id="11" parent="27" relname="span">Er will mit dem Streiten wegen Katalonien aufhören.</segment>
+		<segment id="12" parent="35" relname="conjunction">Auch der Präsident von Katalonien will nun mit dem Streit aufhören.</segment>
+		<segment id="13" parent="38" relname="contrast">Man weiß aber noch nicht, wann der Streit wirklich vorbei sein wird.</segment>
+		<group id="15" type="span" parent="16" relname="list"/>
+		<group id="16" type="multinuc" parent="17" relname="span"/>
+		<group id="17" type="span" parent="43" relname="elaboration"/>
+		<group id="27" type="span" parent="35" relname="conjunction"/>
+		<group id="32" type="multinuc" parent="43" relname="span"/>
+		<group id="33" type="span" parent="8" relname="cause"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="36" type="span" parent="38" relname="contrast"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="39" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="11" relname="circumstance"/>
+		<group id="42" type="span" />
+		<group id="43" type="span" parent="33" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="39" relname="background"/>
+	</body>
+</rst>

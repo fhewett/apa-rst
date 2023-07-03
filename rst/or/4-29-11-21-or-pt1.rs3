@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Feldhofer neuer Rapid-Trainer – Amtsantritt am Montag</segment>
+		<segment id="2" parent="31" relname="preparation">Die Trainerfrage bei Fußball-Rekordmeister Rapid ist gelöst.</segment>
+		<segment id="3" parent="20" relname="span">Ferdinand Feldhofer wird ab Montag die Nachfolge von Interimstrainer Steffen Hofmann antreten,</segment>
+		<segment id="4" parent="3" relname="e-elaboration">der am 10. November nach dem Aus von Dietmar Kühbauer eingesetzt worden war.</segment>
+		<segment id="5" parent="18" relname="sequence">Der Ex-WAC-Coach unterschrieb bei den Hütteldorfern am Sonntag einen Vertrag für eineinhalb Jahre mit Option für eine Verlängerung.</segment>
+		<segment id="6" parent="18" relname="sequence">Der 42-Jährige wird sein Debüt auf der Rapid-Trainerbank damit am Sonntag im Heim-Derby gegen die Austria geben.</segment>
+		<segment id="7" parent="33" relname="span">“Es fühlt sich richtig gut an,</segment>
+		<segment id="8" parent="7" relname="reason">es ist eine Rückkehr in eine vertraute Umgebung.</segment>
+		<segment id="9" parent="33" relname="reason">Nach intensiven Gesprächen mit den Rapid-Führungskräften war für mich sehr rasch klar, dass wir im Fußball-Denken total auf einer Wellenlänge sind.</segment>
+		<segment id="10" parent="23" relname="conjunction">Ich kann es kaum erwarten meine Spieler persönlich kennenzulernen</segment>
+		<segment id="11" parent="23" relname="conjunction">und mit ihnen am Platz und darüber hinaus zu arbeiten”,</segment>
+		<segment id="12" parent="25" relname="attribution">wurde Feldhofer in einer Club-Aussendung zitiert.</segment>
+		<segment id="13" parent="27" relname="span">Für ihn ist es eine Rückkehr,</segment>
+		<segment id="14" parent="35" relname="sequence">zählte er doch als aktiver Spieler zu jener Mannschaft, die 2005 den Meistertitel holte.</segment>
+		<segment id="15" parent="17" relname="span">Der Abwehrspieler verließ daraufhin den Verein,</segment>
+		<segment id="16" parent="15" relname="e-elaboration">für den er seit Anfang 2002 in 91 Pflichtspielen gekickt hatte.</segment>
+		<group id="17" type="span" parent="35" relname="sequence"/>
+		<group id="18" type="multinuc" parent="20" relname="e-elaboration"/>
+		<group id="20" type="span" parent="21" relname="span"/>
+		<group id="21" type="span" parent="31" relname="span"/>
+		<group id="22" type="multinuc" parent="25" relname="span"/>
+		<group id="23" type="multinuc" parent="22" relname="list"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="27" type="span" parent="26" relname="e-elaboration"/>
+		<group id="30" type="span" parent="21" relname="elaboration"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" />
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="22" relname="list"/>
+		<group id="35" type="multinuc" parent="13" relname="cause"/>
+	</body>
+</rst>

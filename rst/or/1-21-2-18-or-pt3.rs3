@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">Die “New York Times” berichtete unter Berufung auf Regierungsmitarbeiter,</segment>
+		<segment id="2" parent="19" relname="span">Mattis habe noch am Donnerstag versucht, Trump in der Frage umzustimmen – allerdings ohne Erfolg.</segment>
+		<segment id="3" parent="34" relname="sequence">Daraufhin habe er seinen Rückzug angekündigt.</segment>
+		<segment id="4" parent="32" relname="preparation">Einen Rückzug will Trump auch in Afghanistan.</segment>
+		<segment id="5" parent="21" relname="span">Der US-Präsident plant</segment>
+		<segment id="6" parent="5" relname="attribution">laut dem “Wall Street Journal”</segment>
+		<segment id="7" parent="22" relname="sameunit">über 5.000 der in Afghanistan stationierten 14.000 US-Soldaten abzuziehen.</segment>
+		<segment id="8" parent="36" relname="span">Trump habe das Verteidigungsministerium bereits angewiesen, die Truppenreduzierung einzuleiten,</segment>
+		<segment id="9" parent="8" relname="attribution">berichteten mehrere Medien unter Berufung auf nichtgenannte Regierungsvertreter.</segment>
+		<segment id="10" parent="36" relname="elaboration">Das Pentagon wollte sich bisher nicht dazu äußern.</segment>
+		<segment id="11" parent="37" relname="span">Führende Demokraten bezeichneten unterdessen den Abgang von Mattis als Zäsur,</segment>
+		<segment id="12" parent="11" relname="reason">da er in der Trump-Administration eine Stimme der Vernunft gewesen sei.</segment>
+		<segment id="13" parent="29" relname="preparation">Auch aus den Reihen der Republikanern war Besorgnis zu hören.</segment>
+		<segment id="14" parent="27" relname="attribution">Der republikanische Senator Marco Rubio etwa wertete</segment>
+		<segment id="15" parent="27" relname="span">Mattis’ Schreiben als Beleg dafür, dass die USA außenpolitisch auf einem gefährlichen Kurs unterwegs seien.</segment>
+		<segment id="16" parent="17" relname="attribution">Er hoffe,</segment>
+		<segment id="17" parent="26" relname="span">dass Trump überzeugt werden könne, eine andere Richtung einzuschlagen.</segment>
+		<group id="19" type="span" parent="34" relname="sequence"/>
+		<group id="21" type="span" parent="22" relname="sameunit"/>
+		<group id="22" type="multinuc" parent="31" relname="span"/>
+		<group id="23" type="span" parent="31" relname="elaboration"/>
+		<group id="26" type="span" parent="28" relname="elaboration"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="35" relname="list"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="35" relname="list"/>
+		<group id="34" type="multinuc" parent="35" relname="list"/>
+		<group id="35" type="multinuc" />
+		<group id="36" type="span" parent="23" relname="span"/>
+		<group id="37" type="span" parent="35" relname="list"/>
+	</body>
+</rst>

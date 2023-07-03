@@ -1,0 +1,95 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="evidence">Zwischendurch hatten sich schon Zoos aus aller Welt für das extrem seltene Tier interessiert.</segment>
+		<segment id="2" parent="40" relname="span">Die Menschenäffin mit dem weißen Fell und den strahlend blauen Augen wäre gewiss eine Attraktion.</segment>
+		<segment id="3" parent="33" relname="contrast">Frei wäre sie nicht.</segment>
+		<segment id="4" parent="53" relname="span">Im Dschungel sollte es ihr besser gehen.</segment>
+		<segment id="5" parent="42" relname="preparation">Allerdings drohen Gefahren:</segment>
+		<segment id="6" parent="46" relname="span">nicht nur von Raubtieren und Artgenossen, auch von menschlichen Trophäensammlern.</segment>
+		<segment id="7" parent="8" relname="attribution">Wie anderswo auf der Welt gibt es auf Borneo Leute, die glauben,</segment>
+		<segment id="8" parent="48" relname="span">dass Albinos Macht und Potenz verleihen.</segment>
+		<segment id="9" parent="29" relname="attribution">Der Chef der Tierschutzorganisation, Jamartin Sihite, fürchtet,</segment>
+		<segment id="10" parent="29" relname="span">dass Jagd auf sie gemacht wird.</segment>
+		<segment id="11" parent="10" relname="elaboration">“Durch ihr helles Fell ist sie weit sichtbar.”</segment>
+		<segment id="12" parent="54" relname="span">Auch deshalb steht Alba nach der Auswilderung unter besonderem Schutz.</segment>
+		<segment id="13" parent="30" relname="span">Zuständig dafür ist die Volksgruppe der Dayak,</segment>
+		<segment id="14" parent="13" relname="e-elaboration">in deren Gebiet der Nationalpark liegt.</segment>
+		<segment id="15" parent="31" relname="span">“Insgesamt passen rund um die Uhr, 24 Stunden lang, in verschiedenen Schichten, 24 Dayaks auf sie auf”,</segment>
+		<segment id="16" parent="15" relname="attribution">sagt Jamartin.</segment>
+		<segment id="17" parent="35" relname="span">Die Aufpasser sollen aber auch im Blick behalten, wie sich Alba im Wald verhält.</segment>
+		<segment id="18" parent="34" relname="span">Mehrfach schon stürzten ausgewilderte Affen mangels Kletterpraxis vom Baum.</segment>
+		<segment id="19" parent="18" relname="result">Noch weiß niemand, ob Alba in der Freiheit zurechtkommen wird.</segment>
+		<segment id="20" parent="36" relname="span">Die erste Nacht verbrachte sie ganz oben in einem Baum.</segment>
+		<segment id="21" parent="20" relname="interpretation">Alles ging gut.</segment>
+		<segment id="22" parent="49" relname="span">Vermutlich wird es eine ganze Weile dauern,</segment>
+		<segment id="23" parent="22" relname="circumstance">bis man Gewissheit darüber hat, ob sie es schafft.</segment>
+		<segment id="24" parent="32" relname="span">“Die ersten zehn Tage sind auf jeden Fall sehr wichtig”,</segment>
+		<segment id="25" parent="24" relname="attribution">sagt Jamartin.</segment>
+		<segment id="26" parent="27" relname="condition">Falls die Auswilderung scheitert,</segment>
+		<segment id="27" parent="41" relname="span">gibt es zumindest schon einen Plan:</segment>
+		<segment id="28" parent="37" relname="span">Dann kommt Alba doch noch auf die künstliche Insel.</segment>
+		<group id="29" type="span" parent="44" relname="span"/>
+		<group id="30" type="span" parent="47" relname="span"/>
+		<group id="31" type="span" parent="51" relname="span"/>
+		<group id="32" type="span" parent="38" relname="interpretation"/>
+		<group id="33" type="multinuc" parent="4" relname="evidence"/>
+		<group id="34" type="span" parent="17" relname="cause"/>
+		<group id="35" type="span" parent="31" relname="elaboration"/>
+		<group id="36" type="span" parent="49" relname="concession"/>
+		<group id="37" type="span" parent="50" relname="elaboration"/>
+		<group id="38" type="span" parent="50" relname="span"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="40" type="span" parent="33" relname="contrast"/>
+		<group id="41" type="span" parent="28" relname="solutionhood"/>
+		<group id="42" type="span" parent="39" relname="span"/>
+		<group id="43" type="span" />
+		<group id="44" type="span" parent="55" relname="span"/>
+		<group id="45" type="multinuc" parent="42" relname="span"/>
+		<group id="46" type="span" parent="45" relname="list"/>
+		<group id="47" type="span" parent="12" relname="e-elaboration"/>
+		<group id="48" type="span" parent="6" relname="elaboration"/>
+		<group id="49" type="span" parent="38" relname="span"/>
+		<group id="50" type="span" parent="56" relname="span"/>
+		<group id="51" type="span" parent="30" relname="elaboration"/>
+		<group id="52" type="span" parent="45" relname="list"/>
+		<group id="53" type="span" parent="39" relname="concession"/>
+		<group id="54" type="span" parent="44" relname="result"/>
+		<group id="55" type="span" parent="52" relname="span"/>
+		<group id="56" type="span" parent="55" relname="elaboration"/>
+	</body>
+</rst>

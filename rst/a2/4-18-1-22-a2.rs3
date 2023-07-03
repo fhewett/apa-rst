@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Es gibt in Österreich weniger Arbeitslose</segment>
+		<segment id="2" parent="12" relname="span">Es gibt wieder weniger Arbeitslose.</segment>
+		<segment id="3" parent="16" relname="contrast">Derzeit sind in Österreich 407.000 Menschen arbeitslos.</segment>
+		<segment id="4" parent="16" relname="contrast">Das sind um 3.500 weniger als vor einer Woche.</segment>
+		<segment id="5" parent="9" relname="span">Es sind sogar um fast 24.000 weniger Arbeitslose als im Jänner 2019.</segment>
+		<segment id="6" parent="5" relname="background">2019 war das letzte Jahr vor der Corona-Krise.</segment>
+		<segment id="7" parent="9" relname="elaboration">Es gibt derzeit auch weniger arbeitslose Jugendliche als vor der Corona-Krise.</segment>
+		<group id="9" type="span" parent="17" relname="span"/>
+		<group id="12" type="span" parent="18" relname="span"/>
+		<group id="15" type="span" parent="2" relname="evidence"/>
+		<group id="16" type="multinuc" parent="15" relname="span"/>
+		<group id="17" type="span" parent="12" relname="evidence"/>
+		<group id="18" type="span" />
+	</body>
+</rst>

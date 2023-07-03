@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Mann in England fuhr über 70 Jahre lang ohne Führerschein Auto</segment>
+		<segment id="2" parent="29" relname="span">Ein Mann ist in England nach eigenen Angaben mehr als 70 Jahre lang ohne Führerschein oder Versicherung Auto gefahren.</segment>
+		<segment id="3" parent="24" relname="attribution">Wie die Polizei mitteilte,</segment>
+		<segment id="4" parent="23" relname="sequence">geriet der 1938 geborene Mann in der Nähe von Nottingham mit seinem Mini One in eine Routinekontrolle.</segment>
+		<segment id="5" parent="23" relname="sequence">Papiere konnte er nicht vorweisen.</segment>
+		<segment id="6" parent="21" relname="attribution">Er gab aber an,</segment>
+		<segment id="7" parent="21" relname="span">seit seinem zwölften Lebensjahr hinter dem Steuer zu sitzen,</segment>
+		<segment id="8" parent="7" relname="concession">ohne je einen Führerschein oder eine Versicherung gehabt zu haben.</segment>
+		<segment id="9" parent="20" relname="span">"Irgendwie hat er es geschafft, nie von der Polizei angehalten zu werden",</segment>
+		<segment id="10" parent="19" relname="span">hieß es weiter in dem Facebook-Post,</segment>
+		<segment id="11" parent="10" relname="e-elaboration">dessen Authentizität ein Polizeisprecher der Deutschen Presse-Agentur am Freitag bestätigte.</segment>
+		<segment id="12" parent="18" relname="span">Glücklicherweise sei der Mann auch nie in einen Unfall verwickelt gewesen,</segment>
+		<segment id="13" parent="12" relname="attribution">so die Mitteilung weiter.</segment>
+		<segment id="14" parent="28" relname="list">Die Kontrolle soll bereits am Mittwoch stattgefunden haben.</segment>
+		<segment id="15" parent="26" relname="attribution">Die Polizei rief Autofahrer auf,</segment>
+		<segment id="16" parent="26" relname="span">sich nicht ohne gültige Papiere hinters Steuer zu setzen.</segment>
+		<segment id="17" parent="16" relname="motivation">Die wachsende Zahl von Kameras mit automatischer Nummernschilderkennung mache es zunehmend wahrscheinlich, dass man dabei erwischt werde.</segment>
+		<group id="18" type="span" parent="28" relname="list"/>
+		<group id="19" type="span" parent="9" relname="attribution"/>
+		<group id="20" type="span" parent="28" relname="list"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="31" relname="contrast"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="25" type="span" parent="31" relname="contrast"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="30" relname="list"/>
+		<group id="28" type="multinuc" parent="2" relname="elaboration"/>
+		<group id="29" type="span" parent="30" relname="list"/>
+		<group id="30" type="multinuc" />
+		<group id="31" type="multinuc" parent="28" relname="list"/>
+	</body>
+</rst>

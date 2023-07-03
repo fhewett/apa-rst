@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Ministerium bestätigte Omikron-Fall in Österreich</segment>
+		<segment id="2" parent="35" relname="span">Die Coronavirus-Variante Omikron ist offiziell in Österreich angekommen:</segment>
+		<segment id="3" parent="23" relname="span">“Im Gesundheitsministerium liegen jetzt sämtliche Ergebnisse vor, die es für eine Bestätigung braucht”,</segment>
+		<segment id="4" parent="3" relname="attribution">hieß es aus dem Ressort.</segment>
+		<segment id="5" parent="43" relname="span">Bei einem Fall aus Tirol handelt es sich “mit Sicherheit” um die Variante mit der wissenschaftlichen Bezeichnung B.1.1.529.</segment>
+		<segment id="6" parent="37" relname="span">Die Tiroler Behörden hatten den Verdachtsfall am Samstagabend bekanntgegeben.</segment>
+		<segment id="7" parent="24" relname="span">Von der Infektion betroffen sei eine Person,</segment>
+		<segment id="8" parent="25" relname="conjunction">die nach einer Südafrika-Reise positiv auf Covid-19 getestet wurde</segment>
+		<segment id="9" parent="25" relname="conjunction">und derzeit keine Symptome aufweise.</segment>
+		<segment id="10" parent="11" relname="attribution">Laut Elmar Rizzoli, Leiter des Tiroler Corona-Einsatzstabes,</segment>
+		<segment id="11" parent="26" relname="span">wurden alle Kontaktpersonen umgehend abgesondert.</segment>
+		<segment id="12" parent="27" relname="span">Das Land Tirol forderte alle Personen, die in den vergangenen 14 Tagen aus den Ländern Südafrika, Lesotho, Botswana, Simbabwe, Mosambik, Namibia und Eswatini zurückgekehrt sind, auf, einen PCR-Test zu machen.</segment>
+		<segment id="13" parent="12" relname="e-elaboration">Dies sollte am fünften und zehnten Tag nach der Einreise wiederholt werden.</segment>
+		<segment id="14" parent="31" relname="span">Bisher meldeten sich 31 Menschen.</segment>
+		<segment id="15" parent="28" relname="list">“Neben dem genannten einen positiven Ergebnis liegt für 20 Personen bereits ein negatives Testergebnis vor,</segment>
+		<segment id="16" parent="28" relname="list">bei elf Personen sind die Testungen aktuell im Gange”,</segment>
+		<segment id="17" parent="29" relname="attribution">hieß es.</segment>
+		<segment id="18" parent="42" relname="span">Die Omikron-Variante von SARS-CoV-2 sorgt weltweit seit Tagen für Schlagzeilen.</segment>
+		<segment id="19" parent="40" relname="span">Die WHO arbeitet nach eigenen Angaben mit technischen Partnern zusammen,</segment>
+		<segment id="20" parent="19" relname="purpose">um die Auswirkungen der Variante auf die bestehenden Gegenmaßnahmen wie Impfstoffe zu bewerten.</segment>
+		<segment id="21" parent="32" relname="conjunction">Es sei noch unklar, ob B.1.1.259 leichter übertragbar verglichen mit anderen Covid-19-Varianten sei</segment>
+		<segment id="22" parent="32" relname="conjunction">oder einen schwereren Krankheitsverlauf nach sich ziehe.</segment>
+		<group id="23" type="span" parent="36" relname="span"/>
+		<group id="24" type="span" parent="6" relname="e-elaboration"/>
+		<group id="25" type="multinuc" parent="7" relname="e-elaboration"/>
+		<group id="26" type="span" parent="37" relname="result"/>
+		<group id="27" type="span" parent="34" relname="span"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="14" relname="elaboration"/>
+		<group id="31" type="span" parent="27" relname="result"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="40" relname="background"/>
+		<group id="34" type="span" parent="38" relname="result"/>
+		<group id="35" type="span" parent="44" relname="span"/>
+		<group id="36" type="span" parent="2" relname="evidence"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="5" relname="e-elaboration"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="18" relname="cause"/>
+		<group id="42" type="span" parent="35" relname="background"/>
+		<group id="43" type="span" parent="23" relname="elaboration"/>
+		<group id="44" type="span" />
+	</body>
+</rst>

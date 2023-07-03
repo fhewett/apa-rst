@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="19" relname="span">WKÖ-Präsident Mahrer deponierte in der Sitzung seine Forderung nach einem Aufsperren für Handel, Gastronomie und Tourismus nach dem anvisierten Lockdown-Ende,</segment>
+		<segment id="2" parent="1" relname="attribution">sagte er im Anschluss an die Gespräche.</segment>
+		<segment id="3" parent="19" relname="interpretation">Dies sei eine “Frage der Notwendigkeit”.</segment>
+		<segment id="4" parent="5" relname="condition">Denn sollte Österreich darüber hinaus alles geschlossen halten,</segment>
+		<segment id="5" parent="21" relname="span">dann würden sich etwa Südtirol oder die Schweiz “ins Fäustchen lachen”,</segment>
+		<segment id="6" parent="21" relname="attribution">verwies er auf die internationale Konkurrenzsituation im Tourismus.</segment>
+		<segment id="7" parent="23" relname="span">Man dürfe den Leuten “Weihnachten nicht wegnehmen”,</segment>
+		<segment id="8" parent="7" relname="attribution">sagte er.</segment>
+		<segment id="9" parent="33" relname="list">Einmal mehr pochte Mahrer auch auf einen Ausbau der Test-Infrastruktur.</segment>
+		<segment id="10" parent="33" relname="list">Außerdem will er, dass die Österreichische Gesundheitskasse (ÖGK) in die Impfkampagne eingebunden wird.</segment>
+		<segment id="11" parent="32" relname="span">Einen Appell zum Impfen richtete AK-Präsidentin Anderl an die noch Ungeimpften.</segment>
+		<segment id="12" parent="13" relname="attribution">Alle Experten würden klar sagen,</segment>
+		<segment id="13" parent="42" relname="span">dass es die dritte Impfung brauche,</segment>
+		<segment id="14" parent="42" relname="attribution">sagte sie nach dem Treffen.</segment>
+		<segment id="15" parent="30" relname="span">Dass der Lockdown nach den ersten zehn Tagen – wie angekündigt – für weitere zehn Tage bis 11. Dezember verlängert wird, daran ließ Anderl keinen Zweifel.</segment>
+		<segment id="16" parent="44" relname="span">Keine Festlegung gab es für die Zeit danach:</segment>
+		<segment id="17" parent="16" relname="restatement">Es sei diesbezüglich “gar nichts” fixiert worden,</segment>
+		<segment id="18" parent="44" relname="cause">die Entscheidung müssten dann die Virologen treffen.</segment>
+		<group id="19" type="span" parent="37" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="38" relname="list"/>
+		<group id="23" type="span" parent="38" relname="list"/>
+		<group id="30" type="span" parent="41" relname="list"/>
+		<group id="32" type="span" parent="41" relname="list"/>
+		<group id="33" type="multinuc" parent="40" relname="list"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="38" type="multinuc" parent="37" relname="motivation"/>
+		<group id="39" type="span" parent="40" relname="list"/>
+		<group id="40" type="multinuc" parent="41" relname="list"/>
+		<group id="41" type="multinuc" />
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="11" relname="reason"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="15" relname="elaboration"/>
+	</body>
+</rst>

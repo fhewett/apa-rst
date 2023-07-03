@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Regierung öffnet weiter: 2G-Regel beim Friseur fällt</segment>
+		<segment id="2" parent="17" relname="span">Die Regierung setzt trotz des derzeitigen Höhepunkts der Omikron-Welle weitere Öffnungsschritte.</segment>
+		<segment id="3" parent="4" relname="attribution">Neben den bereits bekannten Lockerungen ab kommendem Samstag wie dem Wegfall der 2G-Regel in Geschäften und Museen kündigte die Regierung am Dienstag in einer Aussendung an,</segment>
+		<segment id="4" parent="18" relname="span">dass die 2G-Regel bei körpernahen Dienstleistungen ebenfalls ab 12. Februar fällt.</segment>
+		<segment id="5" parent="13" relname="span">Außerdem gibt es keine Personenobergrenze bei Veranstaltungen mehr,</segment>
+		<segment id="6" parent="5" relname="concession">hier muss man aber weiterhin geimpft oder genesen sein.</segment>
+		<segment id="7" parent="8" relname="result">Das heißt, für den Friseurbesuch braucht man künftig nicht mehr unbedingt einen Impf- oder Genesungsnachweis,</segment>
+		<segment id="8" parent="19" relname="span">sondern es reicht auch ein negatives Testergebnis (3G-Regel).</segment>
+		<segment id="9" parent="19" relname="concession">Es muss allerdings eine FFP2-Maske getragen werden.</segment>
+		<group id="13" type="span" parent="14" relname="list"/>
+		<group id="14" type="multinuc" parent="15" relname="span"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="16" type="span" parent="2" relname="e-elaboration"/>
+		<group id="17" type="span" />
+		<group id="18" type="span" parent="14" relname="list"/>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="20" type="span" parent="15" relname="e-elaboration"/>
+	</body>
+</rst>

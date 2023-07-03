@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="span">Die russische Politik sieht einen direkten Zusammenhang zwischen dem befohlenen Rückzug von US-Truppen aus Syrien und dem Rücktritt von US-Verteidigungsminister James Mattis.</segment>
+		<segment id="2" parent="20" relname="span">“Das ist ein interessantes und eher positives Signal”,</segment>
+		<segment id="3" parent="19" relname="span">kommentierte der auf Außenpolitik spezialisierte Parlamentarier Konstantin Kossatschow am Freitag auf Facebook.</segment>
+		<segment id="4" parent="36" relname="span">Trump habe Mattis ja schon immer “eher als Demokraten” gesehen.</segment>
+		<segment id="5" parent="27" relname="preparation">Mattis’ Rücktrittsankündigung löste bei Politikern in der Asien-Pazifik-Region wiederum Besorgnis aus.</segment>
+		<segment id="6" parent="23" relname="span">“Er war einer der Erwachsenen in der Trump-Regierung”,</segment>
+		<segment id="7" parent="6" relname="attribution">sagte der australische Senator Jim Molan in einem Zeitungsinterview.</segment>
+		<segment id="8" parent="24" relname="span">Mit dem Rücktritt werde die Unberechenbarkeit in der amerikanischen Außenpolitik verstärkt.</segment>
+		<segment id="9" parent="10" relname="concession">Mattis war einer der klarsten Kritiker der chinesischen Expansionsbestrebungen im Südchinesischen Meer,</segment>
+		<segment id="10" parent="25" relname="span">versuchte zugleich aber auch, die Spannungen nicht eskalieren zu lassen.</segment>
+		<segment id="11" parent="26" relname="elaboration">Die Asien-Pazifik-Region mit wichtigen US-Verbündeten wie Japan, Südkorea und Australien ist einer der Brennpunkte internationaler Spannungen.</segment>
+		<segment id="12" parent="35" relname="span">Seit Trump im Weißen Haus regiert, gab es Dutzende Personalwechsel, darunter einige in seinem Kabinett.</segment>
+		<segment id="13" parent="31" relname="background">Zu den aufsehenerregendsten gehörte die angeblich per Twitter erfolgte Entlassung von Außenminister Rex Tillerson im März.</segment>
+		<segment id="14" parent="30" relname="preparation">Allein in den vergangenen Wochen gab es zudem mehrere Änderungen:</segment>
+		<segment id="15" parent="29" relname="sequence">Erst drängte Trump seinen Justizminister Jeff Sessions zum Rücktritt,</segment>
+		<segment id="16" parent="29" relname="sequence">dann verkündete er die Trennung von Stabschef John Kelly wie auch von Innenminister Ryan Zinke.</segment>
+		<segment id="17" parent="34" relname="span">Frühere Mitarbeiter des Weißen Hauses zeichneten in Insider-Berichten ein Bild von chaotischen Zuständen.</segment>
+		<group id="19" type="span" parent="2" relname="attribution"/>
+		<group id="20" type="span" parent="4" relname="evaluation-S"/>
+		<group id="21" type="span" parent="33" relname="list"/>
+		<group id="23" type="span" parent="8" relname="reason"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="25" type="span" parent="24" relname="elaboration"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="33" relname="list"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" parent="17" relname="background"/>
+		<group id="33" type="multinuc" />
+		<group id="34" type="span" parent="12" relname="background"/>
+		<group id="35" type="span" parent="33" relname="list"/>
+		<group id="36" type="span" parent="1" relname="elaboration"/>
+	</body>
+</rst>

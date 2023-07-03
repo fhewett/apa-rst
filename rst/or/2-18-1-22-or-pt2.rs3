@@ -1,0 +1,90 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">SPÖ-Abgeordneter Alois Stöger hatte am Montag schon vor der Ausschusssitzung klar gemacht,</segment>
+		<segment id="2" parent="24" relname="span">dass die SP-Fraktion wohl auch am Donnerstag im Nationalratsplenum geschlossen für das Vorhaben stimmen wird.</segment>
+		<segment id="3" parent="40" relname="concession">Er könne zwar nicht für jeden einzelnen Abgeordneten sprechen,</segment>
+		<segment id="4" parent="39" relname="sequence">die SPÖ diskutiere aber immer intern</segment>
+		<segment id="5" parent="39" relname="sequence">und trete dann geschlossen auf,</segment>
+		<segment id="6" parent="52" relname="attribution">gab er zu verstehen.</segment>
+		<segment id="7" parent="25" relname="span">Zur innerparteilicher Skepsis – insbesondere aus den Reihen der roten Gewerkschafter –</segment>
+		<segment id="8" parent="7" relname="attribution">sagte Stöger,</segment>
+		<segment id="9" parent="26" relname="sameunit">viele davon seien “wütend”,</segment>
+		<segment id="10" parent="11" relname="cause">da die Impfpflicht nur notwendig geworden sei,</segment>
+		<segment id="11" parent="27" relname="span">weil die Regierung Corona als “erledigt” dargestellt habe.</segment>
+		<segment id="12" parent="13" relname="attribution">Damit verwies der Abgeordnete auf jene Plakat-Kampagne der ÖVP aus dem vergangenen Sommer,</segment>
+		<segment id="13" parent="43" relname="span">bei der u.a. der Slogan “Die Pandemie gemeistert, die Krise bekämpft” verwendet wurde.</segment>
+		<segment id="14" parent="29" relname="attribution">Gleichzeitig betonte Stöger,</segment>
+		<segment id="15" parent="29" relname="span">dass die Impfung notwendig sei:</segment>
+		<segment id="16" parent="15" relname="elaboration">“Die Covid-Impfung ist jetzt das Mittel der Wahl.”</segment>
+		<segment id="17" parent="18" relname="evidence">Als Sozialdemokratie werde es notwendig sein, zu sagen “Lasst Euch impfen”.</segment>
+		<segment id="18" parent="31" relname="span">“Daher werden wir diesen nationalen Schulterschluss auch mittragen.”</segment>
+		<segment id="19" parent="32" relname="attribution">NEOS-Chefin Beate Meinl-Reisinger betonte einmal mehr,</segment>
+		<segment id="20" parent="32" relname="span">dass es bei den Pinken in dieser Frage keinen Klubzwang gebe,</segment>
+		<segment id="21" parent="20" relname="reason">weil auch gute Argumente gegen eine Impfpflicht sprächen.</segment>
+		<segment id="22" parent="49" relname="contrast">Im Ausschuss stimmte dann auch Gerald Loacker erwartungsgemäß gegen das Vorhaben;</segment>
+		<segment id="23" parent="49" relname="contrast">der zweite NEOS-Mandatar, Vize-Klubchef Nikolaus Scherak, votierte dafür.</segment>
+		<group id="24" type="span" parent="35" relname="span"/>
+		<group id="25" type="span" parent="26" relname="sameunit"/>
+		<group id="26" type="multinuc" parent="38" relname="span"/>
+		<group id="27" type="span" parent="38" relname="cause"/>
+		<group id="28" type="span" parent="44" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="33" relname="list"/>
+		<group id="31" type="span" parent="33" relname="list"/>
+		<group id="32" type="span" parent="36" relname="span"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="34" type="span" parent="37" relname="contrast"/>
+		<group id="35" type="span" parent="47" relname="span"/>
+		<group id="36" type="span" parent="51" relname="span"/>
+		<group id="37" type="multinuc" parent="46" relname="span"/>
+		<group id="38" type="span" parent="28" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="40" type="span" parent="52" relname="span"/>
+		<group id="43" type="span" parent="28" relname="elaboration"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="37" relname="contrast"/>
+		<group id="46" type="span" parent="35" relname="elaboration"/>
+		<group id="47" type="span" parent="48" relname="list"/>
+		<group id="48" type="multinuc" />
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="50" type="span" parent="36" relname="elaboration"/>
+		<group id="51" type="span" parent="48" relname="list"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="24" relname="cause"/>
+	</body>
+</rst>

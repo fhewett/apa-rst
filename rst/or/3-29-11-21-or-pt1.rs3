@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Haushaltsenergie war im Oktober 23 Prozent teurer</segment>
+		<segment id="2" parent="17" relname="span">Die Energiepreise für die heimischen Haushalte waren im Oktober um 22,8 Prozent höher als ein Jahr davor.</segment>
+		<segment id="3" parent="2" relname="elaboration">Teurer wurden vor allem Heizöl und Sprit.</segment>
+		<segment id="4" parent="14" relname="span">Heizöl kostete 60,8 Prozent mehr, Diesel 34,8 und Super 29,4 Prozent,</segment>
+		<segment id="5" parent="4" relname="attribution">geht aus dem von der Österreichischen Energieagentur errechneten Energiepreisindex (EPI) hervor.</segment>
+		<segment id="6" parent="15" relname="list">Gas kostete um 15,6 Prozent mehr, Strom um 9,6 Prozent.</segment>
+		<segment id="7" parent="18" relname="circumstance">Gegenüber dem Vormonat September zogen die Energiepreise um 4,6 Prozent an.</segment>
+		<segment id="8" parent="20" relname="span">Für die Inflation von 3,7 Prozent im Oktober in Österreich waren die Energiepreise mit 22,8 Prozent Anstieg binnen Jahresfrist ganz wesentlich verantwortlich,</segment>
+		<segment id="9" parent="8" relname="evidence">im Monatsabstand zeigte der VPI ein Plus von 0,6 Prozent.</segment>
+		<segment id="10" parent="21" relname="list">Binnen Monatsfrist besonders stark verteuerten sich im Oktober Heizöl (+12,3 Prozent), Diesel (+7,5 Prozent), Superbenzin (+3,9 Prozent) sowie Gas (+3,5 Prozent).</segment>
+		<segment id="11" parent="21" relname="list">Geringer war der Anstieg gegenüber September bei Brennholz (+2,1 Prozent), Strom (+2,0 Prozent) und Holzpellets (+1,3 Prozent),</segment>
+		<segment id="12" parent="27" relname="contrast">Fernwärme blieb preisstabil.</segment>
+		<segment id="13" parent="22" relname="circumstance">Im Jahresabstand kostete Brennholz 8,3 Prozent mehr, Fernwärme um 3,4 Prozent und Holzpellets um 1,8 Prozent mehr.</segment>
+		<group id="14" type="span" parent="15" relname="list"/>
+		<group id="15" type="multinuc" parent="16" relname="span"/>
+		<group id="16" type="span" parent="17" relname="elaboration"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="19" relname="span"/>
+		<group id="19" type="span" parent="24" relname="span"/>
+		<group id="20" type="span" parent="19" relname="result"/>
+		<group id="21" type="multinuc" parent="26" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="24" relname="elaboration"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="25" type="span" />
+		<group id="26" type="span" parent="27" relname="contrast"/>
+		<group id="27" type="multinuc" parent="22" relname="span"/>
+	</body>
+</rst>

@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="47" relname="span">Feldhofer setzte sich im Trainer-Rennen gegen Kandidaten aus dem In- und Ausland durch.</segment>
+		<segment id="2" parent="23" relname="contrast">“Der Kandidatenkreis war am Anfang sehr groß,</segment>
+		<segment id="3" parent="23" relname="contrast">wurde aber von Tag zu Tag kleiner.</segment>
+		<segment id="4" parent="5" relname="concession">Einige haben in Hearings überzeugt,</segment>
+		<segment id="5" parent="20" relname="span">aber in Summe auch mich persönlich Ferdinand Feldhofer am meisten.</segment>
+		<segment id="6" parent="21" relname="list">Er zählt zu einer neuen, modernen Trainergeneration,</segment>
+		<segment id="7" parent="21" relname="list">setzt auf innovative Arbeitsmethoden</segment>
+		<segment id="8" parent="21" relname="list">und wird mit großem Engagement und Fachkenntnis seine neue Herausforderung antreten”,</segment>
+		<segment id="9" parent="26" relname="attribution">verlautete Sport-Geschäftsführer Zoran Barisic.</segment>
+		<segment id="10" parent="32" relname="span">Feldhofer kennt die Liga nicht nur als Spieler,</segment>
+		<segment id="11" parent="29" relname="span">war er doch von Ende Dezember 2019 bis März diesen Jahres</segment>
+		<segment id="12" parent="11" relname="elaboration">– das Out kam kurz nach dem historischen Antreten im Sechzehntelfinale der Europa League –</segment>
+		<segment id="13" parent="30" relname="sameunit">beim WAC engagiert.</segment>
+		<segment id="14" parent="38" relname="span">Für diese Tätigkeit hatte er sich bei seiner erfolgreichen ersten Trainerstation beim zuerst Regionalligisten und dann Zweite-Liga-Verein Lafnitz empfohlen.</segment>
+		<segment id="15" parent="33" relname="conjunction">“Er hat bereits bei seinen bisherigen Stationen bewiesen, dass er auf attraktiven Fußball mit einer konkreten Idee setzt</segment>
+		<segment id="16" parent="33" relname="conjunction">und mit seinem Konzept auch Erfolg haben kann”,</segment>
+		<segment id="17" parent="34" relname="attribution">sagte Barisic.</segment>
+		<segment id="18" parent="36" relname="contrast">Seine Rapid-Vergangenheit sei bei der Entscheidungsfindung “kein ausschlaggebendes Kriterium”,</segment>
+		<segment id="19" parent="36" relname="contrast">sondern nur ein “schöner Nebenaspekt” gewesen.</segment>
+		<group id="20" type="span" parent="25" relname="span"/>
+		<group id="21" type="multinuc" parent="22" relname="span"/>
+		<group id="22" type="span" parent="25" relname="evidence"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="24" type="span" parent="1" relname="e-elaboration"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="48" relname="span"/>
+		<group id="29" type="span" parent="30" relname="sameunit"/>
+		<group id="30" type="multinuc" parent="44" relname="span"/>
+		<group id="31" type="span" parent="10" relname="evidence"/>
+		<group id="32" type="span" parent="35" relname="evaluation-N"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" parent="45" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="37" type="span" parent="43" relname="span"/>
+		<group id="38" type="span" parent="44" relname="elaboration"/>
+		<group id="43" type="span" parent="46" relname="span"/>
+		<group id="44" type="span" parent="31" relname="span"/>
+		<group id="45" type="span" parent="43" relname="antithesis"/>
+		<group id="46" type="span" parent="27" relname="reason"/>
+		<group id="47" type="span" parent="48" relname="preparation"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="49" type="span" />
+	</body>
+</rst>

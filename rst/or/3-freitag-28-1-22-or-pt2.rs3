@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="8" relname="list">Damit wolle man "Notsituationen in den Wintermonaten abwenden",</segment>
+		<segment id="2" parent="8" relname="list">die Kaufkraft der Menschen erhalten</segment>
+		<segment id="3" parent="8" relname="list">und die aktuell verschärfte Preissituation insbesondere in Bezug auf Energiekosten für die heimischen Haushalte ausgleichen, heißt es zu den "Sofortmaßnahmen gegen Teuerung".</segment>
+		<segment id="4" parent="9" relname="span">Vom Energiekostenausgleich von einmalig 150 Euro sollen alle Ein- bzw. Mehrpersonenhaushalte mit einem Einkommen bis zur ein- bzw. zweifachen ASVG-Höchstbeitragsgrundlage profitieren,</segment>
+		<segment id="5" parent="4" relname="e-elaboration">aktuell liegt diese bei 5.670 Euro brutto monatlich.</segment>
+		<segment id="6" parent="11" relname="sequence">Als Unterstützung für Unternehmen soll geprüft werden, ob zur Liquiditätssicherung für produzierende Betriebe in Zeiten hoher Energiepreise die Vorausvergütung der Energieabgaben im Rahmen der Energieabgabenvergütung vorverlegt</segment>
+		<segment id="7" parent="11" relname="sequence">und auf 25 Prozent erhöht werden kann, heißt es.</segment>
+		<group id="8" type="multinuc" parent="12" relname="span"/>
+		<group id="9" type="span" parent="12" relname="e-elaboration"/>
+		<group id="11" type="multinuc" parent="14" relname="list"/>
+		<group id="12" type="span" parent="13" relname="span"/>
+		<group id="13" type="span" parent="14" relname="list"/>
+		<group id="14" type="multinuc" />
+	</body>
+</rst>

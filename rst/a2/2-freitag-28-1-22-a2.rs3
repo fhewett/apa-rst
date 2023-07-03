@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >In Österreich ist Energie viel teurer geworden</segment>
+		<segment id="2" parent="13" relname="span">In Österreich sind die Energie-Preise im letzten Jahr stark gestiegen.</segment>
+		<segment id="3" parent="8" relname="span">Im Dezember 2021 kostete Energie um rund 1 Viertel mehr als noch vor einem Jahr.</segment>
+		<segment id="4" parent="3" relname="result">Deshalb müssen auch die Haushalte in Österreich mehr für die Energie bezahlen.</segment>
+		<segment id="5" parent="11" relname="list">Besonders Heizöl, Benzin und Diesel kosten viel mehr.</segment>
+		<segment id="6" parent="9" relname="conjunction">Auch Gas und Strom kosteten deutlich mehr</segment>
+		<segment id="7" parent="9" relname="conjunction">und werden wahrscheinlich noch teurer werden.</segment>
+		<group id="8" type="span" parent="12" relname="span"/>
+		<group id="9" type="multinuc" parent="10" relname="span"/>
+		<group id="10" type="span" parent="11" relname="list"/>
+		<group id="11" type="multinuc" parent="8" relname="elaboration"/>
+		<group id="12" type="span" parent="2" relname="elaboration"/>
+		<group id="13" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="18" relname="span">Erstmals seit November 2020 sanken damit im Dezember 2021 binnen Monatsfrist die Preise für erdölbasierte Energieträger,</segment>
+		<segment id="2" parent="1" relname="attribution">so die Energieagentur.</segment>
+		<segment id="3" parent="16" relname="span">Die übrigen Energieträger, außer Fernwärme, verteuerten sich jedoch gegenüber dem Vormonat:</segment>
+		<segment id="4" parent="3" relname="evidence">Erdgas um 6,1 Prozent, Holzpellets um 3,6 Prozent, Strom um 2,0 Prozent und Brennholz um 1,1 Prozent;</segment>
+		<segment id="5" parent="16" relname="evidence">Fernwärme blieb zum Vormonat preisstabil.</segment>
+		<segment id="6" parent="14" relname="list">Erdgas verteuerte sich auch binnen Jahresfrist besonders kräftig, nämlich um 27,7 Prozent.</segment>
+		<segment id="7" parent="14" relname="list">Für Strom musste um 12,4 Prozent tiefer in die Tasche gegriffen werden,</segment>
+		<segment id="8" parent="14" relname="list">für Holzpellets um 10,6 und für Brennholz um 9,7 Prozent.</segment>
+		<segment id="9" parent="14" relname="list">Fernwärme wurde nur um 3,4 Prozent kostspieliger, weniger als der VPI-Anstieg.</segment>
+		<segment id="10" parent="25" relname="sequence">Für Strom und Gas haben viele Versorger schon weitere Preiserhöhungen für Jänner bzw. Februar angekündigt,</segment>
+		<segment id="11" parent="25" relname="sequence">andere haben solche bereits umgesetzt.</segment>
+		<segment id="12" parent="13" relname="attribution">Das wird laut Energieagentur</segment>
+		<segment id="13" parent="19" relname="span">ab dem kommenden Energiepreisindex für Jänner sichtbar werden.</segment>
+		<group id="14" type="multinuc" parent="21" relname="evidence"/>
+		<group id="15" type="span" parent="20" relname="span"/>
+		<group id="16" type="span" parent="17" relname="span"/>
+		<group id="17" type="span" parent="18" relname="concession"/>
+		<group id="18" type="span" parent="21" relname="span"/>
+		<group id="19" type="span" parent="15" relname="elaboration"/>
+		<group id="20" type="span" parent="26" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="20" relname="background"/>
+		<group id="25" type="multinuc" parent="15" relname="span"/>
+		<group id="26" type="span" />
+	</body>
+</rst>

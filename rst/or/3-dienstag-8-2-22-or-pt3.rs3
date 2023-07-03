@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="concession">Während 84 Prozent ihren Tagesablauf vor der Pandemie als geregelt empfanden,</segment>
+		<segment id="2" parent="13" relname="span">tun dies mittlerweile nur mehr 55,5 Prozent.</segment>
+		<segment id="3" parent="14" relname="span">Die jungen Österreicher verbringen ihr Leben meist vor Bildschirmen,</segment>
+		<segment id="4" parent="3" relname="evidence">entweder vor dem ihres Smartphones- oder Computers (85,6 Prozent), oder vor jenem des TV-Geräts (73,5 Prozent) und in virtuellen Treffen mit Freunden via Video-Chat (44,5 Prozent).</segment>
+		<segment id="5" parent="15" relname="conjunction">Aber auch 45,7 Prozent helfen mehr im Haushalt mit,</segment>
+		<segment id="6" parent="15" relname="conjunction">34,5 Prozent treiben mehr Sport</segment>
+		<segment id="7" parent="15" relname="conjunction">und 32,3 Prozent investieren mehr Zeit in das Lernen.</segment>
+		<segment id="8" parent="18" relname="list">Fast alle jungen Menschen (92,8 Prozent) wünschen sich sehnlich eine Rückkehr in die Normalität.</segment>
+		<segment id="9" parent="18" relname="list">86,3 Prozent sind überzeugt, dass die wahren Folgen der jahrelangen Virus-Präsenz erst in einiger Zeit in vollem Ausmaß sichtbar sein werden.</segment>
+		<segment id="10" parent="19" relname="conjunction">Immerhin 82,5 Prozent haben sich mit den Einschränkungen in ihrem Leben weitgehend arrangiert</segment>
+		<segment id="11" parent="19" relname="conjunction">und versuchen, das Beste daraus zu machen.</segment>
+		<segment id="12" parent="21" relname="list">81 Prozent hadern damit, ob das Leben nach der Pandemie jenem vor dem Ausbruch des Virus gleichen wird.</segment>
+		<group id="13" type="span" parent="21" relname="list"/>
+		<group id="14" type="span" parent="17" relname="span"/>
+		<group id="15" type="multinuc" parent="16" relname="span"/>
+		<group id="16" type="span" parent="14" relname="concession"/>
+		<group id="17" type="span" parent="21" relname="list"/>
+		<group id="18" type="multinuc" parent="20" relname="contrast"/>
+		<group id="19" type="multinuc" parent="20" relname="contrast"/>
+		<group id="20" type="multinuc" parent="21" relname="list"/>
+		<group id="21" type="multinuc" />
+	</body>
+</rst>

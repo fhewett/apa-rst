@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Gesundheits-Ausschuss beschloss Umsetzung der geplanten Impfpflicht</segment>
+		<segment id="2" parent="19" relname="sequence">Im Gesundheits-Ausschuss des Nationalrats ist am Montag über die geplante Corona-Impflicht gesprochen</segment>
+		<segment id="3" parent="19" relname="sequence">und schließlich beschlossen worden.</segment>
+		<segment id="4" parent="13" relname="span">Ab Februar soll sie für alle ab 18 Jahren in Österreich gelten.</segment>
+		<segment id="5" parent="4" relname="concession">Ausnahmen gibt es für Schwangere und Personen, die aus medizinischen Gründen nicht geimpft werden können.</segment>
+		<segment id="6" parent="21" relname="background">Der Nationalrat entscheidet am Donnerstag über die Impfpflicht.</segment>
+		<segment id="7" parent="14" relname="sequence">Ab Anfang Februar bis Mitte März wird jeder Haushalt über die Impflicht informiert.</segment>
+		<segment id="8" parent="25" relname="span">Ab Mitte März wird sie kontrolliert.</segment>
+		<segment id="9" parent="24" relname="condition">Wird man als ungeimpft ertappt,</segment>
+		<segment id="10" parent="16" relname="conjunction">muss man mit einer Anzeige rechnen</segment>
+		<segment id="11" parent="16" relname="conjunction">und eine Strafe zahlen.</segment>
+		<segment id="12" parent="17" relname="e-elaboration">Diese kann 600 Euro bis 3.600 Euro betragen.</segment>
+		<group id="13" type="span" parent="20" relname="elaboration"/>
+		<group id="14" type="multinuc" parent="26" relname="span"/>
+		<group id="16" type="multinuc" parent="24" relname="span"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="8" relname="elaboration"/>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="20" type="span" parent="21" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" />
+		<group id="24" type="span" parent="17" relname="span"/>
+		<group id="25" type="span" parent="14" relname="sequence"/>
+		<group id="26" type="span" parent="22" relname="elaboration"/>
+	</body>
+</rst>

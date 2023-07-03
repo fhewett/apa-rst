@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Malteserin Metsola neue Präsidentin des EU-Parlaments</segment>
+		<segment id="2" parent="19" relname="span">Die christdemokratische Malteserin Roberta Metsola ist die neue Präsidentin des EU-Parlaments.</segment>
+		<segment id="3" parent="18" relname="span">Die Europaabgeordneten in Straßburg wählten die 43-Jährige am Dienstag im ersten Wahlgang mit 458 von 616 abgegebenen gültigen Stimmen an ihre Spitze.</segment>
+		<segment id="4" parent="17" relname="list">Metsola ist die dritte Frau in dem prestigeträchtigen Amt und die jüngste Person überhaupt in der Geschichte des Parlaments.</segment>
+		<segment id="5" parent="20" relname="span">Sie folgt auf den vergangene Woche unerwartet gestorbenen italienischen Sozialdemokraten David Sassoli.</segment>
+		<segment id="6" parent="5" relname="elaboration">Sassolis Amtszeit wäre im Jänner regulär ausgelaufen.</segment>
+		<segment id="7" parent="22" relname="span">Metsola setzte sich am Dienstag, an ihrem Geburtstag, gegen Bewerber aus zwei anderen Fraktionen durch.</segment>
+		<segment id="8" parent="33" relname="list">Die Linke hatte die Spanierin Sira Rego ins Rennen geschickt,</segment>
+		<segment id="9" parent="33" relname="list">die Grünen die Schwedin Alice Bah Kuhnke.</segment>
+		<segment id="10" parent="32" relname="conjunction">Die Sozialdemokraten und die Liberalen hatten keine eigenen Kandidaten aufgestellt</segment>
+		<segment id="11" parent="32" relname="conjunction">und Metsola unterstützt.</segment>
+		<segment id="12" parent="37" relname="span">Im Gegenzug sollen sie aber unter anderem jeweils einen Vizepräsidenten mehr stellen als bisher,</segment>
+		<segment id="13" parent="12" relname="attribution">wie es aus Parlamentskreisen hieß.</segment>
+		<segment id="14" parent="41" relname="span">Die 14 Vizepräsidenten des EU-Parlaments werden im Anschluss gewählt.</segment>
+		<segment id="15" parent="27" relname="span">Für dieses Amt kandieren die österreichischen Abgeordneten Othmar Karas (ÖVP) und Evelyn Regner (SPÖ).</segment>
+		<segment id="16" parent="15" relname="e-elaboration">Karas ist bereits jetzt einer der Vizepräsidenten der EU-Volksvertretung.</segment>
+		<group id="17" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="18" type="span" parent="2" relname="elaboration"/>
+		<group id="19" type="span" parent="21" relname="span"/>
+		<group id="20" type="span" parent="17" relname="list"/>
+		<group id="21" type="span" />
+		<group id="22" type="span" parent="19" relname="elaboration"/>
+		<group id="27" type="span" parent="14" relname="elaboration"/>
+		<group id="32" type="multinuc" parent="42" relname="contrast"/>
+		<group id="33" type="multinuc" parent="34" relname="contrast"/>
+		<group id="34" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="37" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="42" relname="contrast"/>
+		<group id="41" type="span" parent="37" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="34" relname="contrast"/>
+	</body>
+</rst>

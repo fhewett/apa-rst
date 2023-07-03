@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >US-Verteidigungsminister Mattis gab Rücktritt bekannt</segment>
+		<segment id="2" parent="3" relname="cause">Wegen erheblicher Meinungsverschiedenheiten mit US-Präsident Donald Trump</segment>
+		<segment id="3" parent="14" relname="span">tritt Verteidigungsminister James Mattis Ende Februar zurück.</segment>
+		<segment id="4" parent="16" relname="span">Der Pentagon-Chef gab seinen Rückzug einen Tag nach Trumps Ankündigung eines vollständigen Truppenabzugs aus Syrien bekannt.</segment>
+		<segment id="5" parent="4" relname="cause">Mattis ist ein entschiedener Gegner dieses Schritts.</segment>
+		<segment id="6" parent="26" relname="preparation">Trump plant offenbar auch eine bedeutende Truppenreduzierung in Afghanistan.</segment>
+		<segment id="7" parent="25" relname="background">Mattis betonte in seinem Rücktrittsschreiben an Trump am Donnerstag die Bedeutung internationaler Allianzen.</segment>
+		<segment id="8" parent="15" relname="conjunction">Es sei unverzichtbar für die USA, starke Partnerschaften zu pflegen</segment>
+		<segment id="9" parent="15" relname="conjunction">und Verbündete mit Respekt zu behandeln.</segment>
+		<segment id="10" parent="19" relname="elaboration">Als Beispiele nannte etwa die Kooperation in der NATO und im internationalen Bündnis gegen die islamistische Terrororganisation IS.</segment>
+		<segment id="11" parent="17" relname="span">Gleichzeitig müssten die USA entschlossen und unmissverständlich in ihrer Haltung gegenüber jenen Ländern sein, deren Interessen den eigenen zuwiderliefen,</segment>
+		<segment id="12" parent="11" relname="attribution">betonte der General.</segment>
+		<segment id="13" parent="17" relname="elaboration">Als Beispiele nannte er hier China oder Russland.</segment>
+		<group id="14" type="span" parent="21" relname="span"/>
+		<group id="15" type="multinuc" parent="19" relname="span"/>
+		<group id="16" type="span" parent="14" relname="elaboration"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="24" relname="list"/>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="20" type="span" parent="24" relname="list"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="21" relname="elaboration"/>
+		<group id="24" type="multinuc" parent="25" relname="span"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="23" relname="span"/>
+	</body>
+</rst>

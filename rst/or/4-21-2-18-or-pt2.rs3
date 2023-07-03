@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">Die Dorfbewohner behaupteten seinerzeit,</segment>
+		<segment id="2" parent="23" relname="span">der Orang-Utan, damals etwa fünf Jahre alt, sei eines Tages einfach da gewesen, einfach so.</segment>
+		<segment id="3" parent="23" relname="circumstance">Von seiner Mutter oder sonstiger Begleitung will keiner etwas mitbekommen haben.</segment>
+		<segment id="4" parent="25" relname="interpretation">Von außerhalb konnte nie jemand in Erfahrung bringen, ob das stimmt.</segment>
+		<segment id="5" parent="20" relname="span">Acht Kilo brachte das Tier damals noch auf die Waage.</segment>
+		<segment id="6" parent="5" relname="interpretation">Lange hätte das wohl nicht mehr gereicht.</segment>
+		<segment id="7" parent="27" relname="span">Insgesamt, so schätzt man, gibt es auf Borneo und der Nachbarinsel Sumatra noch zwischen 70.000 und 100.000 Orang-Utans.</segment>
+		<segment id="8" parent="26" relname="span">Die Menschenaffen mit normalerweise rotbraunem Fell gelten heute als stark gefährdet oder gar vom Aussterben bedroht.</segment>
+		<segment id="9" parent="17" relname="list">Insbesondere, weil der Urwald durch Rodungen, Brände und riesige Palmöl-Plantagen immer weniger wird.</segment>
+		<segment id="10" parent="17" relname="list">Zudem gibt es Wilderer.</segment>
+		<segment id="11" parent="31" relname="list">Alba wurde in einer Station der Tierschutzorganisation Borneo Orangutan Survival (BOS) aufgepäppelt.</segment>
+		<segment id="12" parent="29" relname="span">Dort bekam sie auch ihren Namen:</segment>
+		<segment id="13" parent="21" relname="conjunction">Alba ist lateinisch</segment>
+		<segment id="14" parent="21" relname="conjunction">und heißt “weiß”.</segment>
+		<segment id="15" parent="16" relname="concession">Dass es auch unter Tieren Albinismus gibt, ist bekannt – von weißen Labormäusen und weißen Zoo-Tigern zum Beispiel.</segment>
+		<segment id="16" parent="18" relname="span">Weniger bekannt ist, dass auch andere Säugetiere sowie Vögel und Fische von solchen Gendefekten betroffen sein können.</segment>
+		<group id="17" type="multinuc" parent="8" relname="evidence"/>
+		<group id="18" type="span" parent="30" relname="elaboration"/>
+		<group id="19" type="multinuc" parent="30" relname="span"/>
+		<group id="20" type="span" parent="19" relname="sequence"/>
+		<group id="21" type="multinuc" parent="12" relname="e-elaboration"/>
+		<group id="22" type="span" parent="28" relname="span"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="24" type="span" parent="19" relname="sequence"/>
+		<group id="25" type="span" parent="24" relname="span"/>
+		<group id="26" type="span" parent="7" relname="e-elaboration"/>
+		<group id="27" type="span" parent="22" relname="background"/>
+		<group id="28" type="span" parent="19" relname="sequence"/>
+		<group id="29" type="span" parent="31" relname="list"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="31" type="multinuc" parent="22" relname="span"/>
+		<group id="32" type="span" />
+	</body>
+</rst>

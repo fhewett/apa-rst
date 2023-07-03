@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+						<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Impfpflicht – Unmut bei Polizeigewerkschaft über Kontroll-Aufgabe</segment>
+		<segment id="2" parent="29" relname="sequence">Ab Februar soll die Impfpflicht in Kraft treten,</segment>
+		<segment id="3" parent="29" relname="sequence">ab Mitte März der Impfstatus von der Polizei bei jeder Amtshandlung auch kontrolliert werden.</segment>
+		<segment id="4" parent="30" relname="span">Massive Kritik daran kommt nun von sozialdemokratischen und freiheitlichen Gewerkschaftern.</segment>
+		<segment id="5" parent="28" relname="span">Die Überwachung der Impfpflicht müsse hauptsächlich von Beamten der Gesundheitsämter durchgeführt werden,</segment>
+		<segment id="6" parent="5" relname="attribution">forderten die beiden Gewerkschafter Hermann Greylinger (FSG) und Werner Herbert (AUF) am Dienstag im “Ö1”-Morgenjournal.</segment>
+		<segment id="7" parent="8" relname="attribution">Am Rande einer Pressekonferenz verwies Gesundheitsminister Wolfgang Mückstein (Grüne) am Dienstag darauf,</segment>
+		<segment id="8" parent="27" relname="span">dass schon jetzt von der Polizei kontrolliert werde – seit vergangenen Dienstag rund 200.000 Mal im Rahmen von Routine- und Coronaschutzmaßnahmen-Kontrollen.</segment>
+		<segment id="9" parent="26" relname="span">Das werde “auch ab 15. März eine machbare Aufgabe sein”,</segment>
+		<segment id="10" parent="9" relname="attribution">so der Politiker.</segment>
+		<segment id="11" parent="25" relname="span">Ab dann beginnt nach einer Übergangsfrist mit Informationsinitiativen die De-facto-Kontrolle der Impfpflicht,</segment>
+		<segment id="12" parent="11" relname="e-elaboration">die de jure ab Februar gelten soll.</segment>
+		<segment id="13" parent="24" relname="span">“Die Polizei hat diesen gesetzlichen Auftrag auszuführen.</segment>
+		<segment id="14" parent="13" relname="elaboration">Ich gehe davon aus, dass sie das im Rahmen von Verkehrskontrollen und, was die Kontrollen der Corona-Schutzmaßnahmen betrifft, in einem vertretbaren Ausmaß erledigen wird.”</segment>
+		<segment id="15" parent="22" relname="attribution">Aus dem Innenministerium hieß es,</segment>
+		<segment id="16" parent="19" relname="sequence">dass für die Kontrolle der Impfpflicht derzeit ein Konzept erarbeitet</segment>
+		<segment id="17" parent="19" relname="sequence">und in Folge mit der Personalvertretung abgestimmt werde.</segment>
+		<segment id="18" parent="21" relname="list">Außerdem sei die Polizei bereits seit Beginn der Pandemie eng in die Kontrollen der Covid-Maßnahmen eingebunden.</segment>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="20" type="span" parent="21" relname="list"/>
+		<group id="21" type="multinuc" parent="22" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="36" relname="background"/>
+		<group id="24" type="span" parent="33" relname="elaboration"/>
+		<group id="25" type="span" parent="26" relname="e-elaboration"/>
+		<group id="26" type="span" parent="32" relname="span"/>
+		<group id="27" type="span" parent="33" relname="span"/>
+		<group id="28" type="span" parent="4" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="30" relname="background"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="35" relname="contrast"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="35" relname="contrast"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Ein weißer Orang-Utan ist wieder zurück in der Natur</segment>
+		<segment id="2" parent="13" relname="span">Auf der Insel Borneo in Asien lebt im Dschungel eine Affenart namens Orang-Utan.</segment>
+		<segment id="3" parent="2" relname="e-elaboration">Diese Menschenaffen haben normalerweise rot-braunes Fell.</segment>
+		<segment id="4" parent="14" relname="span">Im April 2017 wurde aber in einem Dorf ein weißes Orang-Utan Weibchen gefunden.</segment>
+		<segment id="5" parent="4" relname="e-elaboration">Es war verletzt.</segment>
+		<segment id="6" parent="15" relname="sequence">Das Orang-Utan Weibchen wurde von Pflegern gesund gepflegt</segment>
+		<segment id="7" parent="15" relname="sequence">und Alba getauft.</segment>
+		<segment id="8" parent="24" relname="span">Jetzt wurde Alba zurück in den Dschungel gebracht.</segment>
+		<segment id="9" parent="10" relname="cause">Weiße Orang-Utans sind sehr selten.</segment>
+		<segment id="10" parent="16" relname="span">Daher kann es sein, dass Wilderer Alba jagen werden.</segment>
+		<segment id="11" parent="22" relname="span">Deshalb steht Alba unter besonderem Schutz.</segment>
+		<segment id="12" parent="11" relname="elaboration">Sie wird Tag und Nacht von insgesamt 24 Personen bewacht.</segment>
+		<group id="13" type="span" parent="27" relname="background"/>
+		<group id="14" type="span" parent="15" relname="sequence"/>
+		<group id="15" type="multinuc" parent="26" relname="span"/>
+		<group id="16" type="span" parent="22" relname="cause"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="8" relname="elaboration"/>
+		<group id="24" type="span" parent="25" relname="sequence"/>
+		<group id="25" type="multinuc" parent="27" relname="span"/>
+		<group id="26" type="span" parent="25" relname="sequence"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" />
+	</body>
+</rst>
