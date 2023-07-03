@@ -14,4 +14,4 @@ If there are multiple sentences on one line, that means that multiple sentences 
 
 More information on the files can be found in our paper. If you use any of the data please cite this paper!
 
-Freya Hewett. APA-RST: A Text Simplification Corpus with RST Annotations. In Proceedings of the 4th Workshop on Computational Approaches to Discourse. Toronto, Canada and Online, July 2023. Association for Computational Linguistics. To appear. 
+Freya Hewett. APA-RST: A Text Simplification Corpus with RST Annotations. In *Proceedings of the 4th Workshop on Computational Approaches to Discourse*. Toronto, Canada and Online, July 2023. Association for Computational Linguistics. To appear. 
