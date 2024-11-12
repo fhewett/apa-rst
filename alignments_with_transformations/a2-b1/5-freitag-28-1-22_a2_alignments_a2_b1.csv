@@ -1,0 +1,7 @@
+"A2 sentence","B1-A2 transformation","B1 sentence"
+"In der US-Stadt New York ist ein Gemälde für rund 45 Millionen Dollar versteigert worden.","Complex split ","In New York ist ein Gemälde des italienischen Malers Sandro Botticelli bei einer Versteigerung für rund 45 Millionen Dollar versteigert worden. "
+"Das Bild stammt von dem Maler Sandro Botticelli aus Italien.","Complex split ","In New York ist ein Gemälde des italienischen Malers Sandro Botticelli bei einer Versteigerung für rund 45 Millionen Dollar versteigert worden. "
+"Es ist mehr als 500 Jahre alt und stellt Jesus Christus dar.","Join ","Das Bild stammt aus dem späten 15. Jahrhundert oder dem frühen 16. Jahrhundert. Es ist ein Porträt von Jesus Christus und trägt den Namen: ""The Man of Sorrows"". "
+"Der Name von dem Gemälde ist: ""The Man of Sorrows"".","Simple split ","Es ist ein Porträt von Jesus Christus und trägt den Namen: ""The Man of Sorrows"". "
+"Übersetzt auf Deutsch heißt das ""Der Schmerzensmann"".","Paraphrase ","Auf Deutsch heißt das Gemälde ""Schmerzensmann"". "
+"Das sind umgerechnet rund 40 Millionen Euro.","Insert complementary info ",""

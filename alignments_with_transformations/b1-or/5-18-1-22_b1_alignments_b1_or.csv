@@ -1,0 +1,8 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"Am Montag hat der Fußball-Weltverband FIFA wie jedes Jahr den besten Fußball-Spieler des Jahres gewählt.","Insert complementary info ",""
+"Gewonnen hat der polnische Fußballspieler Robert Lewandowski.","Complex split ","Robert Lewandowski vom FC Bayern München ist am Montag zum zweiten Mal in Folge von der FIFA als Weltfußballer des Jahres ausgezeichnet worden. "
+"Damit hat Lewandowski die Auszeichnung bereits 2 Mal in Folge gewonnen.","Complex split ","Robert Lewandowski vom FC Bayern München ist am Montag zum zweiten Mal in Folge von der FIFA als Weltfußballer des Jahres ausgezeichnet worden. "
+"Lewandowski spielt für den deutschen Fußball-Club Bayern München.","Complex split ","Robert Lewandowski vom FC Bayern München ist am Montag zum zweiten Mal in Folge von der FIFA als Weltfußballer des Jahres ausgezeichnet worden. "
+"Zum besten Trainer des Jahres wurde Thomas Tuchel gewählt.","Complex split ","Chelsea-Coach Thomas Tuchel wurde nach dem Triumph der “Blues” in der Champions League als Welttrainer geehrt. "
+"Tuchel kommt aus Deutschland und ist Trainer des englischen Fußball-Clubs FC Chelsea.","Complex split ","Chelsea-Coach Thomas Tuchel wurde nach dem Triumph der “Blues” in der Champions League als Welttrainer geehrt. "
+"Tuchel kommt aus Deutschland und ist Trainer des englischen Fußball-Clubs FC Chelsea.","Insert complementary info ",""

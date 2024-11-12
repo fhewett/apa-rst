@@ -1,0 +1,7 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"Energiepreise wurden für die österreichischen Haushalte im letzten Jahr viel teurer.","Insert complementary info ",""
+"Im Dezember 2021 war Energie insgesamt um 24,1 Prozent teurer als ein Jahr davor.","Drop extra info ","Die Energiepreise für die heimischen Haushalte waren im Dezember um 24,1 Prozent höher als ein Jahr davor, blieben aber unverändert gegenüber dem Vormonat November. "
+"Heizöl kostete sogar um 44,3 Prozent mehr, Diesel wurde um 33,9 Prozent teurer und Superbenzin um 31,3 Prozent.","Join ","Heizöl kostete binnen Jahresfrist um 44,3 Prozent mehr, jedoch um 5,0 Prozent weniger als im November. Diesel wurde im Jahresabstand um 33,9 Prozent teurer und Superbenzin um 31,3 Prozent. "
+"Der Preis für Erdgas stieg um 27,7 Prozent, und für Strom musste man um 12,4 Prozent mehr bezahlen.","Join ","Erdgas verteuerte sich auch binnen Jahresfrist besonders kräftig, nämlich um 27,7 Prozent. Für Strom musste um 12,4 Prozent tiefer in die Tasche gegriffen werden, für Holzpellets um 10,6 und für Brennholz um 9,7 Prozent. "
+"Bei Fernwärme war die Preissteigerung am geringsten, sie machte nur 3,4 Prozent aus.","Drop extra info ","Fernwärme wurde nur um 3,4 Prozent kostspieliger, weniger als der VPI-Anstieg. "
+"Die Preise für Strom und Gas werden wahrscheinlich noch weiter steigen.","Drop extra info ","Für Strom und Gas haben viele Versorger schon weitere Preiserhöhungen für Jänner bzw. Februar angekündigt, andere haben solche bereits umgesetzt. "

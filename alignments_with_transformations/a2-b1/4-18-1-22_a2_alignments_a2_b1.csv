@@ -1,0 +1,7 @@
+"A2 sentence","B1-A2 transformation","B1 sentence"
+"Es gibt wieder weniger Arbeitslose.","Drop extra info ","Die Zahl der Arbeitslosen in Österreich ist leicht gesunken. "
+"Derzeit sind in Österreich 407.000 Menschen arbeitslos.","Simple split ","Derzeit sind 406.987 Menschen arbeitslos, das sind um 3.520 weniger als noch vor einer Woche. "
+"Das sind um 3.500 weniger als vor einer Woche.","Simple split ","Derzeit sind 406.987 Menschen arbeitslos, das sind um 3.520 weniger als noch vor einer Woche. "
+"Es sind sogar um fast 24.000 weniger Arbeitslose als im Jänner 2019.","Complex split ","Derzeit gibt es sogar um 23.700 weniger Arbeitslose als im Jänner 2019, also vor der Corona-Krise. "
+"2019 war das letzte Jahr vor der Corona-Krise.","Complex split ","Derzeit gibt es sogar um 23.700 weniger Arbeitslose als im Jänner 2019, also vor der Corona-Krise. "
+"Es gibt derzeit auch weniger arbeitslose Jugendliche als vor der Corona-Krise.","Paraphrase ","Auch die Jugend-Arbeitslosigkeit ist derzeit niedriger als vor der Corona-Pandemie. "

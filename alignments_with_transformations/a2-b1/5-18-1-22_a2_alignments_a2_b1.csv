@@ -1,0 +1,7 @@
+"A2 sentence","B1-A2 transformation","B1 sentence"
+"Jedes Jahr wählt der Fußball-Weltverband FIFA den besten Spieler des Jahres.","Implicit ","Am Montag hat der Fußball-Weltverband FIFA wie jedes Jahr den besten Fußball-Spieler des Jahres gewählt. "
+"Für das Jahr 2021 wurde Robert Lewandoski aus Polen gewählt.","Insert complementary info ","Gewonnen hat der polnische Fußballspieler Robert Lewandowski. "
+"Damit hat Lewandoski diese Auszeichnung 2 Mal hintereinander gewonnen.","Paraphrase ","Damit hat Lewandowski die Auszeichnung bereits 2 Mal in Folge gewonnen. "
+"Lewandowski spielt beim deutschen Fußball-Club Bayern München.","Paraphrase ","Lewandowski spielt für den deutschen Fußball-Club Bayern München. "
+"Zum besten Trainer wurde Thomas Tuchel gewählt.","Drop extra info ","Zum besten Trainer des Jahres wurde Thomas Tuchel gewählt. "
+"Der Deutsche ist Trainer von dem englischen Fußball-Club Chelsea.","Paraphrase ","Tuchel kommt aus Deutschland und ist Trainer des englischen Fußball-Clubs FC Chelsea. "

@@ -1,0 +1,7 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"In Australien hat es starke Stürme mit Hagel gegeben.","Complex split ","Heftige Hagelstürme mit teilweise tennisballgroßen Hagelkörnern haben in der australischen Großstadt Sydney Millionenschäden verursacht. "
+"Die Hagelkörner waren teilweise so groß wie Tennisbälle.","Complex split ","Heftige Hagelstürme mit teilweise tennisballgroßen Hagelkörnern haben in der australischen Großstadt Sydney Millionenschäden verursacht. "
+"Vor allem die Stadt Sydney war von den Stürmen und vom Hagel stark betroffen.","Drop extra info ","Betroffen waren Sydney und die umliegenden Regionen der Central Coast. "
+"Weil die Hagelkörner so groß waren, richteten sie große Schäden an.","Insert complementary info ",""
+"Sie zerstörten zum Beispiel Autoscheiben und beschädigten Hausdächer.","Drop extra info ","Die Zahlen dürften in den kommenden Tagen kräftig ansteigen, wenn sich weitere Betroffene wegen Schäden an Häusern, Geschäften oder Autos bei den Versicherungen melden. "
+"Die großen Hagelkörner sorgten für Schäden in Höhe von 78 Millionen Euro.","Drop extra info ","Bei den Versicherungen gingen bis Freitagnachmittag 25.000 Schadensmeldungen in Höhe von insgesamt 125 Millionen australischen Dollar (rund 78 Millionen Euro) ein, wie der Versicherungsverband des Landes mitteilte. "

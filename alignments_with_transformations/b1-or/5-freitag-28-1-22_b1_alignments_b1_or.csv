@@ -1,0 +1,7 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"In New York ist ein Gemälde des italienischen Malers Sandro Botticelli bei einer Versteigerung für rund 45 Millionen Dollar versteigert worden.","Drop extra info ","Ein Gemälde des italienischen Malers Sandro Botticelli (1445-1510) ist bei einer Auktion in New York für rund 45 Millionen Dollar (etwa 40 Millionen Euro) versteigert worden. "
+"3 Bieter sollen sich 7 Minuten lang einen Wettstreit um das Gemälde geliefert haben.","Drop extra info ","Drei Bieter hätten sich einen rund siebenminütigen Wettstreit um das Werk geliefert, teilte das Auktionshaus Sotheby's am Donnerstag mit. "
+"Wer das Gemälde bekam, wurde zunächst nicht mitgeteilt.","Drop extra info ","Wer das Renaissance-Gemälde schlussendlich erwarb, wurde zunächst nicht mitgeteilt. "
+"Das Bild stammt aus dem späten 15. Jahrhundert oder dem frühen 16. Jahrhundert.","Complex split ","Das im späten 15. oder frühen 16. Jahrhundert entstandene Werk ""The Man of Sorrows"" ist ein Porträt von Jesus Christus und befand sich zuvor in einer Privatsammlung. "
+"Es ist ein Porträt von Jesus Christus und trägt den Namen: ""The Man of Sorrows"".","Complex split ","Das im späten 15. oder frühen 16. Jahrhundert entstandene Werk ""The Man of Sorrows"" ist ein Porträt von Jesus Christus und befand sich zuvor in einer Privatsammlung. "
+"Auf Deutsch heißt das Gemälde ""Schmerzensmann"".","Insert complementary info ",""

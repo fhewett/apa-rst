@@ -1,0 +1,7 @@
+"A2 sentence","B1-A2 transformation","B1 sentence"
+"Viele Haushalte in Österreich haben Schwierigkeiten, ihre Energie-Rechnung zu bezahlen.","Insert complementary info ","Viele Haushalte haben Schwierigkeiten, ihre Energie-Rechnung zu bezahlen. "
+"Deshalb will die Regierung den Haushalten jetzt helfen.","Paraphrase ","Deshalb hat die österreichische Regierung einen sogenannten Energie-Kostenausgleich beschlossen. "
+"Fast jeder Haushalt soll 1 Mal 150 Euro bekommen.","Drop extra info ","Fast alle österreichischen Haushalte bekommen einmal 150 Euro. "
+"Besonders arme Haushalte bekommen noch 1 Mal 150 Euro dazu.","Paraphrase ","Bedürftige Haushalte bekommen noch einmal 150 Euro dazu. "
+"Das gilt zum Beispiel für Arbeitslose.","Simple split ","Das gilt zum Beispiel für Arbeitslose und Menschen, die Mindestsicherung oder eine sehr niedrige Pension bekommen. "
+"Es gilt aber auch für Menschen, die Mindest-Sicherung oder eine sehr niedrige Pension bekommen.","Simple split ","Das gilt zum Beispiel für Arbeitslose und Menschen, die Mindestsicherung oder eine sehr niedrige Pension bekommen. "

@@ -1,0 +1,8 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"Marko Arnautovic ist zum Fußballer des Jahres in Österreich gewählt worden.","Complex split ","Marko Arnautovic ist zum ersten Mal zu Österreichs Fußballer des Jahres gekürt worden. "
+"Arnautovic gewann die Auszeichnung zum 1. Mal.","Complex split ","Marko Arnautovic ist zum ersten Mal zu Österreichs Fußballer des Jahres gekürt worden. "
+"Die Trainer der 12 Klubs in der österreichischen Bundesliga wählten den Wiener Fußballer.","Complex split ","Der Wiener gewann die von der APA – Austria Presse Agentur unter den Trainern der zwölf Bundesligisten durchgeführte Wahl mit 36 Punkten klar vor Rekordsieger David Alaba (Bayern München/16 Punkte) und Xaver Schlager (Red Bull Salzburg/10). "
+"Er gewann die Wahl vor den Fußballern David Alaba und Xaver Schlager.","Complex split ","Der Wiener gewann die von der APA – Austria Presse Agentur unter den Trainern der zwölf Bundesligisten durchgeführte Wahl mit 36 Punkten klar vor Rekordsieger David Alaba (Bayern München/16 Punkte) und Xaver Schlager (Red Bull Salzburg/10). "
+"Letztes Jahr gewann Marcel Sabitzer die Wahl.","Insert complementary info ",""
+"Von 2011 bis 2016 gewann David Alaba.","Insert complementary info ",""
+"Arnautovic spielt in der österreichischen Fußball-Nationalmannschaft und in der englischen Fußball-Liga beim Klub West Ham.","Drop extra info ","“Er bringt über einen langen Zeitraum auf extrem hohem Niveau Leistungen, die oft den Unterschied ausmachen, im Nationalteam und bei West Ham.” "

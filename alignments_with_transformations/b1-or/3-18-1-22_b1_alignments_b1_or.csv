@@ -1,0 +1,7 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"Ab Februar soll es in Österreich eine Corona-Impfpflicht geben.","Complex split ","Ab Februar soll die Impfpflicht in Kraft treten, ab Mitte März der Impfstatus von der Polizei bei jeder Amtshandlung auch kontrolliert werden. "
+"Ab Mitte März soll die Polizei kontrollieren, ob man geimpft ist oder nicht.","Complex split ","Ab Februar soll die Impfpflicht in Kraft treten, ab Mitte März der Impfstatus von der Polizei bei jeder Amtshandlung auch kontrolliert werden. "
+"Polizei-Gewerkschafter von der SPÖ und der FPÖ kritisieren diese Pläne aber.","Paraphrase ","Massive Kritik daran kommt nun von sozialdemokratischen und freiheitlichen Gewerkschaftern. "
+"Sie verlangen, dass Beamte der Gesundheitsämter die Kontrollen durchführen und nicht die Polizei.","Drop extra info ","Die Überwachung der Impfpflicht müsse hauptsächlich von Beamten der Gesundheitsämter durchgeführt werden, forderten die beiden Gewerkschafter Hermann Greylinger (FSG) und Werner Herbert (AUF) am Dienstag im “Ö1”-Morgenjournal. "
+"Die Polizei-Gewerkschafter kritisieren, dass die Polizei mit den Impfkontrollen “zweckwidrig” verwendet werden soll.","Paraphrase ","Sie werde “für politische Zwecke zweckwidrig verwendet”, meinte Herbert. "
+"Gesundheitsminister Wolfgang Mückstein will aber, dass die Polizei die Impf-Kontrollen durchführt.","Implicit ","“Die Polizei hat diesen gesetzlichen Auftrag auszuführen. "

@@ -1,0 +1,8 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"Der Dienstag war ein erfolgreicher Tag für Österreich bei den Olympischen Winterspielen in Peking.","Insert complementary info ",""
+"Der Ski-Rennläufer Matthias Mayer gewann den Super-G und holte die Goldmedaille.","Complex split ","Er kürte sich wie schon 2018 zum Super-G-Olympiasieger und ist damit nach seinem Olympia-Abfahrts-Gold 2014 in Sotschi sowie Abfahrts-Bronze am Montag erfolgreichster alpiner Österreicher bei Olympia. "
+"Mayer gewann schon 2014 und 2018 eine Goldmedaille.","Complex split ","Er kürte sich wie schon 2018 zum Super-G-Olympiasieger und ist damit nach seinem Olympia-Abfahrts-Gold 2014 in Sotschi sowie Abfahrts-Bronze am Montag erfolgreichster alpiner Österreicher bei Olympia. "
+"Der 36-jährige Benjamin Karl holte im Parallel-Riesentorlauf die Gold-Medaille.","Drop extra info ","Benjamin Karl holte im Secret Garden in Zhangjiakou sensationell mit 36 Jahren Gold nach einem Finalsieg über den Slowenen Tim Mastnak. "
+"Bei den Frauen kam Daniela Ulbing im Parallel-Riesentorlauf auf den 2. Platz und gewann damit die Silber-Medaille.","Insert complementary info ","Die 23-jährige Kärntnerin holte also Silber. "
+"Damit ist er der erfolgreichste österreichische Ski-Rennfahrer bei Olympischen Spielen überhaupt.","Drop extra info ","Und er übertraf mit seinem vierten olympischen Edelmetall in der Ewigen Bestenliste u.a. auch den legendären Toni Sailer (1956 dreimal Gold) sowie auch Hermann Maier (2-1-1). "
+"Auch Österreichs Snowboarder konnten jubeln.","Drop extra info ","Der Dienstag war auch ein Jubeltag für Österreichs Snowboarder im olympischen Parallel-Riesentorlauf: "

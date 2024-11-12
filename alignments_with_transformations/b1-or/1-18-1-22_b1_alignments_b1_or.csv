@@ -1,0 +1,6 @@
+"B1 sentence","OR-B1 transformation","OR sentence"
+"Sie ist erst die 3. Frau in dieser Position und mit 43 Jahren gleichzeitig auch die jüngste Europa-Parlaments-Präsidentin überhaupt.","Paraphrase ","Metsola ist die dritte Frau in dem prestigeträchtigen Amt und die jüngste Person überhaupt in der Geschichte des Parlaments. "
+"Sie folgt dem Italiener David Sassoli nach, der vor einer Woche unerwartet verstarb.","Drop extra info ","Sie folgt auf den vergangene Woche unerwartet gestorbenen italienischen Sozialdemokraten David Sassoli. "
+"Metsola studierte europäisches Recht und sitzt seit 2013 im EU-Parlament.","Simple split ","Metsola, die Europäisches Recht studiert hat, sitzt seit 2013 im EU-Parlament, seit November 2020 war sie dessen erste Vizepräsidentin. "
+"2020 wurde sie zur ersten Vize-Präsidentin im EU-Parlament gewählt.","Simple split ","Metsola, die Europäisches Recht studiert hat, sitzt seit 2013 im EU-Parlament, seit November 2020 war sie dessen erste Vizepräsidentin. "
+"Die Europa-Abgeordneten haben am Dienstag die Malteserin Roberta Metsola zur neuen Präsidenten des Europa-Parlaments gewählt.","Drop extra info ","Die Europaabgeordneten in Straßburg wählten die 43-Jährige am Dienstag im ersten Wahlgang mit 458 von 616 abgegebenen gültigen Stimmen an ihre Spitze. "
